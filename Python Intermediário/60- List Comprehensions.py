@@ -1,4 +1,4 @@
-# List Comprehentions
+# List Comprehensions
 # Otimização e redução do tamanho do código
 
 l1 = [1,2,3,4,5,6,7,8,9]
