@@ -19,52 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bfd4f6e-a70e-4eda-9cc5-836dbfd418f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. Programação Orientada a Objetos/92 - POO - Classes/92-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. Programação Orientada a Objetos/92 - POO - Classes/pessoa.py" afterDir="false" />
+    <list default="true" id="9bfd4f6e-a70e-4eda-9cc5-836dbfd418f8" name="Default Changelist" comment="Introdução a POO">
+      <change afterPath="$PROJECT_DIR$/3. Programação Orientada a Objetos/99 - Associação/100 - Agregação/100 - main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Programação Orientada a Objetos/99 - Associação/100 - Agregação/classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Programação Orientada a Objetos/99 - Associação/101 - Composição/101 - main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Programação Orientada a Objetos/99 - Associação/101 - Composição/classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Programação Orientada a Objetos/99 - Associação/99 - main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Programação Orientada a Objetos/99 - Associação/classes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Básico/26- Exercicio2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Básico/26- Exercício1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Básico/26- Exercício3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Básico/27- PassEEllipsis.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Básico/28- Formatação de Valores.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Básico/29- ManipulacaoStrings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Básico/30 - While.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Básico/31- Repetição com acumuladores.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Básico/32-Interando strings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Básico/33-For.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Básico/33-Listas.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Básico/34- For-Else.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Básico/35- Join Split Enumerate.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Básico/36- Desempacotamento de Listas.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Básico/37- Trocando o valor entre variáveis.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Básico/38 - Operação Ternária.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Básico/39-Exprecao Condicional em OR.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Básico/40- Desafio Contadores.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Básico/42- Desafio CPF.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Básico/44 - Gerador de CPF.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Intermediário/45 - Funções(Def).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Intermediário/46- Def (parte2).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Intermediário/47- Ex01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Intermediário/48- Def(parte3).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Intermediário/50-Def(parte4).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Intermediário/51-Ex02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Intermediário/53-Expressões Lambda.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Intermediário/54 - Tuplas.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Intermediário/55- Dicionarios.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Intermediário/56-Sistema Perguntas e Respostas.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Intermediário/57-Sets.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Intermediário/58- Exercicio.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Intermediário/60- List Comprehensions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Intermediário/61- Exercicio List Comprehensions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Intermediário/63- Dictionary Comprehensions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Intermediário/64- Geradores, Iteradores e Iteráveis.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Intermediário/65- Comportamento dos Geradores e Iteradores.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Intermediário/66 - Exercicio.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Intermediário/68-Zio e Zip_longest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Intermediário/69- Exercício.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Intermediário/83- Arquivos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. Programação Orientada a Objetos/98 - Encapsulamento.py" beforeDir="false" afterPath="$PROJECT_DIR$/3. Programação Orientada a Objetos/98 - Encapsulamento.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,10 +58,53 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\CursoPython\3. Programação Orientada a Objetos" />
       <recent name="C:\CursoPython\3. Programação Orientada a Objetos\92 - POO - Classes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.92-main (1)">
+  <component name="RunManager" selected="Python.101 - main">
+    <configuration name="100 - main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. Programação Orientada a Objetos/99 - Associação/100 - Agregação" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. Programação Orientada a Objetos/99 - Associação/100 - Agregação/100 - main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="101 - main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. Programação Orientada a Objetos/99 - Associação/101 - Composição" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. Programação Orientada a Objetos/99 - Associação/101 - Composição/101 - main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="29ManipulacaoStrings" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="30 - While" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="97- Atributos de Classe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. Programação Orientada a Objetos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30 - While.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. Programação Orientada a Objetos/97- Atributos de Classe.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="31- Repetição com acumuladores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="98 - Encapsulamento" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. Programação Orientada a Objetos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/31- Repetição com acumuladores.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. Programação Orientada a Objetos/98 - Encapsulamento.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="32-Interando strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="99 - main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,53 +176,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. Programação Orientada a Objetos/99 - Associação" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/32-Interando strings.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="92-main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Udemy_Python\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. Programação Orientada a Objetos/92 - POO - Classes" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. Programação Orientada a Objetos/92 - POO - Classes/92-main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="92-main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. Programação Orientada a Objetos/92 - POO - Classes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\CursoPython\3. Programação Orientada a Objetos\92 - POO - Classes\92-main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. Programação Orientada a Objetos/99 - Associação/99 - main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,19 +213,19 @@
     <list>
       <item itemvalue="Python.29ManipulacaoStrings" />
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.30 - While" />
-      <item itemvalue="Python.31- Repetição com acumuladores" />
-      <item itemvalue="Python.32-Interando strings" />
-      <item itemvalue="Python.92-main" />
-      <item itemvalue="Python.92-main (1)" />
+      <item itemvalue="Python.97- Atributos de Classe" />
+      <item itemvalue="Python.98 - Encapsulamento" />
+      <item itemvalue="Python.99 - main" />
+      <item itemvalue="Python.100 - main" />
+      <item itemvalue="Python.101 - main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.92-main (1)" />
-        <item itemvalue="Python.92-main" />
-        <item itemvalue="Python.32-Interando strings" />
-        <item itemvalue="Python.31- Repetição com acumuladores" />
-        <item itemvalue="Python.30 - While" />
+        <item itemvalue="Python.101 - main" />
+        <item itemvalue="Python.100 - main" />
+        <item itemvalue="Python.99 - main" />
+        <item itemvalue="Python.98 - Encapsulamento" />
+        <item itemvalue="Python.97- Atributos de Classe" />
       </list>
     </recent_temporary>
   </component>
@@ -277,6 +241,14 @@
       <option name="presentableId" value="Default" />
       <updated>1584321819410</updated>
     </task>
+    <task id="LOCAL-00001" summary="Introdução a POO">
+      <created>1605320226940</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605320226955</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -291,39 +263,71 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Introdução a POO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Introdução a POO" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="447" y="63" width="1089" height="761" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605315126626">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="447" y="63" width="1089" height="761" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605315126626" />
-    <state x="892" y="194" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605314194395">
+    <state x="892" y="194" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605570842035">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="892" y="194" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1605314194395" />
+    <state x="892" y="194" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1605570842035" />
     <state x="772" y="199" key="FileChooserDialogImpl" timestamp="1605315118075">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="772" y="199" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605315118075" />
-    <state width="731" height="195" key="GridCell.Tab.0.bottom" timestamp="1605320019995">
+    <state width="729" height="192" key="GridCell.Tab.0.bottom" timestamp="1605660377895">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="731" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605320019995" />
-    <state width="731" height="195" key="GridCell.Tab.0.center" timestamp="1605320019995">
+    <state width="729" height="192" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605660377895" />
+    <state width="729" height="192" key="GridCell.Tab.0.center" timestamp="1605660377894">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="731" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605320019995" />
-    <state width="731" height="195" key="GridCell.Tab.0.left" timestamp="1605320019995">
+    <state width="729" height="192" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605660377894" />
+    <state width="729" height="192" key="GridCell.Tab.0.left" timestamp="1605660377894">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="731" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605320019995" />
-    <state width="731" height="195" key="GridCell.Tab.0.right" timestamp="1605320019995">
+    <state width="729" height="192" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605660377894" />
+    <state width="729" height="192" key="GridCell.Tab.0.right" timestamp="1605660377894">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="731" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605320019995" />
+    <state width="729" height="192" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605660377894" />
+    <state width="719" height="258" key="GridCell.Tab.1.bottom" timestamp="1605655655507">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="719" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605655655507" />
+    <state width="719" height="258" key="GridCell.Tab.1.center" timestamp="1605655655507">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="719" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605655655507" />
+    <state width="719" height="258" key="GridCell.Tab.1.left" timestamp="1605655655507">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="719" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605655655507" />
+    <state width="719" height="258" key="GridCell.Tab.1.right" timestamp="1605655655507">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="719" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605655655507" />
     <state x="555" y="60" key="SettingsEditor" timestamp="1605314942626">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="555" y="60" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605314942626" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605320229052">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605320229052" />
+    <state x="1002" y="198" key="refactoring.ChangeSignatureDialog" timestamp="1605655216167">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1002" y="198" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1605655216167" />
+    <state x="816" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605653329266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="816" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605653329266" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
