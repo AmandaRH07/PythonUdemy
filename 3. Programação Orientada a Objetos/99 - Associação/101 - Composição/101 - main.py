@@ -1,3 +1,5 @@
+#Composição - É dono
+
 from classes import Cliente, Endereco
 
 cliente1 = Cliente("Eva", 32)

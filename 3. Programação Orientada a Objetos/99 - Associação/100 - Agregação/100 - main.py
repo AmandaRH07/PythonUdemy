@@ -1,3 +1,5 @@
+# Agregação = Tem
+
 from classes import CarrinhoDeCompras, Produto
 
 carrinho = CarrinhoDeCompras()

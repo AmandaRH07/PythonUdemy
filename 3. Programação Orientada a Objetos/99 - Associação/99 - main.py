@@ -1,3 +1,5 @@
+# Associação = Usa
+
 from classes import Escritor, Caneta, MaquinaDeEscrever
 
 escritor = Escritor("Joao")
