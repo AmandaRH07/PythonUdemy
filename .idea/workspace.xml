@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,6 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bfd4f6e-a70e-4eda-9cc5-836dbfd418f8" name="Default Changelist" comment="Desafio Valide um CNPJ">
+      <change afterPath="$PROJECT_DIR$/3. Programação Orientada a Objetos/109.MetodosMagicos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Programação Orientada a Objetos/110.GerenciadorDeContexto.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +63,7 @@
       <recent name="C:\CursoPython\2. Intermediário\82- Pacotes Vendas" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.108.SobrecargaOperadores">
+  <component name="RunManager" selected="Python.110.GerenciadorDeContexto">
     <configuration name="106.Polimorfismo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,6 +127,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="109.MetodosMagicos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. Programação Orientada a Objetos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. Programação Orientada a Objetos/109.MetodosMagicos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="110.GerenciadorDeContexto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. Programação Orientada a Objetos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. Programação Orientada a Objetos/110.GerenciadorDeContexto.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="29ManipulacaoStrings" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,48 +182,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/29ManipulacaoStrings.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="contaPoupanca" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. Programação Orientada a Objetos/105 - Classes Abstratas" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. Programação Orientada a Objetos/105 - Classes Abstratas/contaPoupanca.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. Programação Orientada a Objetos/105 - Classes Abstratas" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. Programação Orientada a Objetos/105 - Classes Abstratas/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,21 +212,21 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.29ManipulacaoStrings" />
+      <item itemvalue="Python.main" />
       <item itemvalue="Python.106.Polimorfismo" />
       <item itemvalue="Python.107.ExcecoesPersonalizadas" />
       <item itemvalue="Python.108.SobrecargaOperadores" />
-      <item itemvalue="Python.29ManipulacaoStrings" />
-      <item itemvalue="Python.contaPoupanca" />
-      <item itemvalue="Python.main (1)" />
-      <item itemvalue="Python.main" />
+      <item itemvalue="Python.109.MetodosMagicos" />
+      <item itemvalue="Python.110.GerenciadorDeContexto" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.110.GerenciadorDeContexto" />
+        <item itemvalue="Python.109.MetodosMagicos" />
         <item itemvalue="Python.108.SobrecargaOperadores" />
         <item itemvalue="Python.107.ExcecoesPersonalizadas" />
         <item itemvalue="Python.106.Polimorfismo" />
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.contaPoupanca" />
       </list>
     </recent_temporary>
   </component>
@@ -300,22 +305,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="772" y="199" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606863639587" />
-    <state width="696" height="217" key="GridCell.Tab.0.bottom" timestamp="1607645936817">
+    <state width="736" height="217" key="GridCell.Tab.0.bottom" timestamp="1609012673760">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="696" height="217" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607645936817" />
-    <state width="696" height="217" key="GridCell.Tab.0.center" timestamp="1607645936817">
+    <state width="736" height="217" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609012673760" />
+    <state width="736" height="217" key="GridCell.Tab.0.center" timestamp="1609012673760">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="696" height="217" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607645936817" />
-    <state width="696" height="217" key="GridCell.Tab.0.left" timestamp="1607645936817">
+    <state width="736" height="217" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609012673760" />
+    <state width="736" height="217" key="GridCell.Tab.0.left" timestamp="1609012673760">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="696" height="217" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607645936817" />
-    <state width="696" height="217" key="GridCell.Tab.0.right" timestamp="1607645936817">
+    <state width="736" height="217" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609012673760" />
+    <state width="736" height="217" key="GridCell.Tab.0.right" timestamp="1609012673760">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="696" height="217" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607645936817" />
+    <state width="736" height="217" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609012673760" />
     <state width="1515" height="260" key="GridCell.Tab.1.bottom" timestamp="1607296632083">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -336,18 +341,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="555" y="60" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605314942626" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1607296611994">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1608756460233">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1607296611994" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608756460233" />
     <state x="1002" y="198" key="refactoring.ChangeSignatureDialog" timestamp="1605655216167">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="1002" y="198" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1605655216167" />
-    <state x="817" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1607644863047">
+    <state x="817" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1609012102371">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="817" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1607644863047" />
+    <state x="817" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1609012102371" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
