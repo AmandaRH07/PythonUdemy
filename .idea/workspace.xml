@@ -22,9 +22,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bfd4f6e-a70e-4eda-9cc5-836dbfd418f8" name="Default Changelist" comment="Desafio Valide um CNPJ">
-      <change afterPath="$PROJECT_DIR$/3. Programação Orientada a Objetos/109.MetodosMagicos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. Programação Orientada a Objetos/110.GerenciadorDeContexto.py" afterDir="false" />
+    <list default="true" id="9bfd4f6e-a70e-4eda-9cc5-836dbfd418f8" name="Default Changelist" comment="109 e 110">
+      <change afterPath="$PROJECT_DIR$/3. Programação Orientada a Objetos/114_DesafioSistemaBancario/Banco.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Programação Orientada a Objetos/114_DesafioSistemaBancario/Cliente.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Programação Orientada a Objetos/114_DesafioSistemaBancario/Conta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Programação Orientada a Objetos/114_DesafioSistemaBancario/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,8 +65,8 @@
       <recent name="C:\CursoPython\2. Intermediário\82- Pacotes Vendas" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.110.GerenciadorDeContexto">
-    <configuration name="106.Polimorfismo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="100 - main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,74 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. Programação Orientada a Objetos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. Programação Orientada a Objetos/99 - Associação/100 - Agregação" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. Programação Orientada a Objetos/106.Polimorfismo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="107.ExcecoesPersonalizadas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. Programação Orientada a Objetos" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. Programação Orientada a Objetos/107.ExcecoesPersonalizadas.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="108.SobrecargaOperadores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. Programação Orientada a Objetos" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. Programação Orientada a Objetos/108.SobrecargaOperadores.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="109.MetodosMagicos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. Programação Orientada a Objetos" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. Programação Orientada a Objetos/109.MetodosMagicos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. Programação Orientada a Objetos/99 - Associação/100 - Agregação/100 - main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,6 +108,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="112_Metaclasses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. Programação Orientada a Objetos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\CursoPython\3. Programação Orientada a Objetos\112_Metaclasses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="113_DocStrings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. Programação Orientada a Objetos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\CursoPython\3. Programação Orientada a Objetos\113_DocStrings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="29ManipulacaoStrings" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="CursoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,6 +163,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/29ManipulacaoStrings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. Programação Orientada a Objetos/114_DesafioSistemaBancario" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. Programação Orientada a Objetos/114_DesafioSistemaBancario/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,19 +216,19 @@
     <list>
       <item itemvalue="Python.29ManipulacaoStrings" />
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.106.Polimorfismo" />
-      <item itemvalue="Python.107.ExcecoesPersonalizadas" />
-      <item itemvalue="Python.108.SobrecargaOperadores" />
-      <item itemvalue="Python.109.MetodosMagicos" />
       <item itemvalue="Python.110.GerenciadorDeContexto" />
+      <item itemvalue="Python.113_DocStrings" />
+      <item itemvalue="Python.112_Metaclasses" />
+      <item itemvalue="Python.100 - main" />
+      <item itemvalue="Python.main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.100 - main" />
+        <item itemvalue="Python.113_DocStrings" />
+        <item itemvalue="Python.112_Metaclasses" />
         <item itemvalue="Python.110.GerenciadorDeContexto" />
-        <item itemvalue="Python.109.MetodosMagicos" />
-        <item itemvalue="Python.108.SobrecargaOperadores" />
-        <item itemvalue="Python.107.ExcecoesPersonalizadas" />
-        <item itemvalue="Python.106.Polimorfismo" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +272,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607296605774</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="109 e 110">
+      <created>1609012965400</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609012965400</updated>
+    </task>
+    <task id="LOCAL-00006" summary="112 e 113">
+      <created>1609079317935</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609079317935</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -290,7 +306,9 @@
     <MESSAGE value="Encapsulamento e Associação entre as classes" />
     <MESSAGE value="POO" />
     <MESSAGE value="Desafio Valide um CNPJ" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desafio Valide um CNPJ" />
+    <MESSAGE value="109 e 110" />
+    <MESSAGE value="112 e 113" />
+    <option name="LAST_COMMIT_MESSAGE" value="112 e 113" />
   </component>
   <component name="WindowStateProjectService">
     <state x="447" y="63" width="1089" height="761" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606260557991">
@@ -305,22 +323,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="772" y="199" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606863639587" />
-    <state width="736" height="217" key="GridCell.Tab.0.bottom" timestamp="1609012673760">
+    <state width="1515" height="268" key="GridCell.Tab.0.bottom" timestamp="1609288016321">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="736" height="217" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609012673760" />
-    <state width="736" height="217" key="GridCell.Tab.0.center" timestamp="1609012673760">
+    <state width="1515" height="268" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609288016321" />
+    <state width="1515" height="268" key="GridCell.Tab.0.center" timestamp="1609288016321">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="736" height="217" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609012673760" />
-    <state width="736" height="217" key="GridCell.Tab.0.left" timestamp="1609012673760">
+    <state width="1515" height="268" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609288016321" />
+    <state width="1515" height="268" key="GridCell.Tab.0.left" timestamp="1609288016321">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="736" height="217" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609012673760" />
-    <state width="736" height="217" key="GridCell.Tab.0.right" timestamp="1609012673760">
+    <state width="1515" height="268" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609288016321" />
+    <state width="1515" height="268" key="GridCell.Tab.0.right" timestamp="1609288016321">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="736" height="217" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609012673760" />
+    <state width="1515" height="268" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609288016321" />
     <state width="1515" height="260" key="GridCell.Tab.1.bottom" timestamp="1607296632083">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -341,10 +359,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="555" y="60" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605314942626" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1608756460233">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1609079322595">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608756460233" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1609079322595" />
     <state x="1002" y="198" key="refactoring.ChangeSignatureDialog" timestamp="1605655216167">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
