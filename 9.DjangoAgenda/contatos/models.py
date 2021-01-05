@@ -20,6 +20,9 @@ from django.utils import timezone
 class Categoria(models.Model):
     nome = models.CharField(max_length=255)
 
+    def __str__(self):
+        return self.nome
+
 class Contato(models.Model):
     # campo de texto com no máximo 255 caracteres
     nome = models.CharField(max_length=255)
@@ -33,4 +36,7 @@ class Contato(models.Model):
     # on_delete = se a categoria for apagada, não acontece nada
     categoria = models.ForeignKey(Categoria, on_delete=models.DO_NOTHING)
 
-# agora precisa fazer as migrações: python manage.py makemigrations
+    # agora precisa fazer as migrações: python manage.py makemigrations
+
+    def __str__(self):
+        return self.nome
