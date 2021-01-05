@@ -6,7 +6,7 @@ class ContatoAdmin(admin.ModelAdmin):
                     'email', 'data_criacao', 'categoria')
 
     list_display_links = ('id', 'nome', 'sobrenome')
-    list_filter = ('nome', 'sobrenome')
+    # list_filter = ('nome', 'sobrenome')
     # list_per_page = 1
     list_per_page = 10
     search_fields = ('nome', 'sobrenome', 'telefone')
